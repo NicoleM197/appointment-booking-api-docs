@@ -1,0 +1,17 @@
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore log files
+*.log
+
+# Ignore any zip files (optional, if you don't want to track zip backups)
+*.zip
+
+# Ignore any temporary files
+*.tmp
+*.temp
+
+# Ignore Python cache files (if any Python files in future)
+__pycache__/
+*.pyc
